@@ -1,3 +1,5 @@
-# 2019 Spring COMP410
+# 2019 Spring COMP 410
 
-1. linked list
+## Linked List
+
+## Binary Search Tree
