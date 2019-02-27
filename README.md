@@ -3,3 +3,5 @@
 ## Linked List
 
 ## Binary Search Tree
+
+## Minimum Binary Heap
